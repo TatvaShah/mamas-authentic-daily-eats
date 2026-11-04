@@ -1,0 +1,156 @@
+{
+ "/images/chicken-bowl.jpg": {
+  "w": 1080,
+  "h": 1350,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/chicken-bowl.68fc6bb6cf",
+  "stamp": "68fc6bb6cf"
+ },
+ "/images/grilled-chicken-strips.jpg": {
+  "w": 1080,
+  "h": 1350,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/grilled-chicken-strips.70f58276ae",
+  "stamp": "70f58276ae"
+ },
+ "/images/honey-garlic-wings.jpg": {
+  "w": 1080,
+  "h": 1350,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/honey-garlic-wings.e00781ebe8",
+  "stamp": "e00781ebe8"
+ },
+ "/images/logo.png": {
+  "w": 512,
+  "h": 512,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   512
+  ],
+  "base": "/images/_opt/logo.e3b1085d10",
+  "stamp": "e3b1085d10"
+ },
+ "/images/meatballs.jpg": {
+  "w": 1080,
+  "h": 1350,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/meatballs.18bd0ba3b3",
+  "stamp": "18bd0ba3b3"
+ },
+ "/images/og-photo.jpg": {
+  "w": 480,
+  "h": 630,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   480
+  ],
+  "base": "/images/_opt/og-photo.1dd204eb70",
+  "stamp": "1dd204eb70"
+ },
+ "/images/sesame-chicken.jpg": {
+  "w": 1080,
+  "h": 1350,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/sesame-chicken.b103ebb517",
+  "stamp": "b103ebb517"
+ },
+ "/images/spread.jpg": {
+  "w": 1080,
+  "h": 1350,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/spread.ae147c30ce",
+  "stamp": "ae147c30ce"
+ },
+ "/images/stuffed-peppers.jpg": {
+  "w": 1080,
+  "h": 1350,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/stuffed-peppers.a4366c8f75",
+  "stamp": "a4366c8f75"
+ },
+ "/images/weekly-batch.jpg": {
+  "w": 1080,
+  "h": 1350,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/weekly-batch.7eb7e6e2ac",
+  "stamp": "7eb7e6e2ac"
+ }
+}
